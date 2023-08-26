@@ -40,9 +40,10 @@ Unlike traditional graph neural networks, GCNN exploits the rich topological and
 ## Applications
 
 - 3D Object Recognition
+- Structural Engineering
 - Structural Bioinformatics
 - Robotics and Automation
-- Geometric Deep Learning
+- Computer-aided Architectural Design
 
 ## Getting Started
 
