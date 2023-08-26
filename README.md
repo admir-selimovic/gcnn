@@ -1,1 +1,83 @@
-# gcnn
+# Geometric Complex Neural Networks (GCNN)
+
+## Overview
+
+Geometric Complex Neural Networks (GCNN) is a cutting-edge neural network model tailored for geometric representation learning. It operates on geometrically realized cell complexes enriched with directional information and maintains equivariance under $\mathrm{E}(3)$ group transformations of rotation, reflection, and translation.
+
+### Highlights
+
+- Utilizes geometric structures inherent to cell complexes.
+- Equivariat with respect to $E(3)$ group transformations.
+- Overcomes the limitations of scalar feature fields by incorporating directionally adjustable feature fields.
+- Exploits topological and geometric structures for higher expressivity.
+
+## Introduction
+
+Representation of geometric quantities in neural networks presents a unique computational challenge due to their sensitivity to spatial symmetries. The GCNN model, rooted in group theory, representation theory, and algebraic topology, aims to tackle this challenge by adapting to the unique symmetries of progressively complex group spaces.
+
+![Model Architecture](./gcnn-architecture.png)
+
+## Features
+
+### Covariance
+
+One of the key features of GCNN is its equivariat architecture. The model captures features that are invariant under rotational, orientational, translational, and reflective symmetries. This enables the model to generalize well across different orientations and configurations.
+
+### Directable Features
+
+GCNN is designed to accept scalar, vector, and tensor fields over $\mathbb{R}^3$ as input and output. This ensures that the model can learn and represent geometric quantities on cell complexes effectively.
+
+### Rich Topological and Geometric Structures
+
+Unlike traditional graph neural networks, GCNN exploits the rich topological and geometric structure of the cell complex for more expressive representation learning. This offers a more robust framework compared to traditional graph-based approaches.
+
+## Applications
+
+- 3D Object Recognition
+- Structural Bioinformatics
+- Robotics and Automation
+- Geometric Deep Learning
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.8+
+- PyTorch 1.7+
+- CUDA 11.0+
+
+### Installation
+
+```bash
+git clone https://github.com/yourusername/GCNN.git
+cd GCNN
+pip install -r requirements.txt
+```
+
+### Usage
+
+To run the model, execute the following command:
+
+```bash
+python main.py --config config.yaml
+```
+
+## Experimental Results
+
+
+
+## Contributing
+
+Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+---
+
+Feel free to contribute and raise issues. For questions, contact [your-email@example.com](mailto:your-email@example.com).
+
+---
+
+If you find this repository useful, consider starring it to help others discover it as well. Thank you!
