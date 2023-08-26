@@ -25,7 +25,7 @@ Representation of geometric quantities in neural networks presents a unique comp
 
 ## Features
 
-### Covariance
+### Equivariance
 
 One of the key features of GCNN is its equivariat architecture. The model captures features that are invariant under rotational, orientational, translational, and reflective symmetries. This enables the model to generalize well across different orientations and configurations.
 
