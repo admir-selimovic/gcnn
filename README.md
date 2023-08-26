@@ -2,14 +2,15 @@
 
 ## Overview
 
-Geometric Complex Neural Networks (GCNN) is a cutting-edge neural network model tailored for geometric representation learning. It operates on geometrically realized cell complexes enriched with directional information and maintains equivariance under $\mathrm{E}(3)$ group transformations of rotation, reflection, and translation.
+Geometric Complex Neural Networks (GCNN) is designed for advanced geometric representation learning. The model operates on geometrically realized cell complexes with geometric features and maintains equivariance under $\mathrm{E}(3)$ group transformations.
 
 ### Highlights
 
-- Utilizes geometric structures inherent to cell complexes.
+- Utilizes topological and geometric structures inherent to cell complexes for higher expressivity.
+- 
 - Equivariat with respect to $E(3)$ group transformations.
 - Overcomes the limitations of scalar feature fields by incorporating directionally adjustable feature fields.
-- Exploits topological and geometric structures for higher expressivity.
+- Exploits topological and geometric structure of cell complexes for higher expressivity.
 
 ## Introduction
 
