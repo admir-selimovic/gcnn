@@ -8,13 +8,14 @@ Geometric Complex Neural Networks (GCNN) is designed for advanced geometric repr
 
 One of the defining aspects of GCNN is its **Geometric Message Passing Mechanism**, explicitly engineered to work with geometric quantities and information. The mechanism enables the diffusion of geometric information throughout the network, thereby facilitating higher-order representation learning on cell complexes. It utilizes the algebraic topology of non-dyadic and trans-hierarchical interactions to significantly enhance the model's learning capabilities in geometrically rich environments.
 
+<!--
 ### Highlights
 
 - Utilizes topological and geometric structures inherent to cell complexes for higher expressivity.
-- 
 - Equivariat with respect to $E(3)$ group transformations.
-- Overcomes the limitations of scalar feature fields by incorporating directionally adjustable feature fields.
+- Overcomes the limitations of scalar feature fields by incorporating harmonic feature fields.
 - Exploits topological and geometric structure of cell complexes for higher expressivity.
+-->
 
 ## Introduction
 
