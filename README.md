@@ -6,7 +6,7 @@ Geometric Complex Neural Networks (GCNN) are designed for advanced geometric rep
 
 ### Key Feature: Geometric Message Passing Mechanism for Geometric Quantities
 
-One of the defining aspects of GCNN is its **Geometric Message Passing Mechanism**, explicitly engineered to work with geometric quantities and information. The mechanism enables the diffusion of geometric information throughout the network, thereby facilitating higher-order representation learning on cell complexes. It utilizes the algebraic topology of non-dyadic and trans-hierarchical interactions to significantly enhance the model's learning capabilities in geometrically rich environments.
+One of the defining aspects of GCNN is its **Geometric Complex Message Passing Mechanism**, explicitly engineered to work with geometric quantities and information. The mechanism enables the diffusion of geometric information throughout the network, thereby facilitating higher-order representation learning on cell complexes. It utilizes the algebraic topology of non-dyadic and trans-hierarchical interactions to significantly enhance the model's learning capabilities in geometrically rich environments.
 
 <!--
 ### Highlights
