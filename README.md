@@ -1,12 +1,12 @@
-# Geometric Complex Neural Networks (GCNN)
+# Geometric Cell Complex Neural Networks (GCXNN)
 
 ## Overview
 
-Geometric Complex Neural Networks (GCNN) are designed for advanced geometric representation learning. The model operates on geometrically realized cell complexes with geometric features and maintains equivariance under $\mathrm{E}(3)$ group transformations.
+Geometric Cell Complex Neural Networks (GCXNN) are designed for advanced geometric representation learning. The model operates on geometrically realized cell complexes with geometric features and maintains equivariance under $\mathrm{E}(3)$ group transformations.
 
 ### Key Feature: Geometric Message Passing Mechanism for Geometric Quantities
 
-One of the defining aspects of GCNN is its **Geometric Complex Message Passing Mechanism**, explicitly engineered to work with geometric quantities and information. The mechanism enables the diffusion of geometric information throughout the network, thereby facilitating higher-order representation learning on cell complexes. It utilizes the algebraic topology of non-dyadic and trans-hierarchical interactions to significantly enhance the model's learning capabilities in geometrically rich environments.
+One of the defining aspects of GCXNN is its **Geometric Complex Message Passing Mechanism**, explicitly engineered to work with geometric quantities and information. The mechanism enables the diffusion of geometric information throughout the network, thereby facilitating higher-order representation learning on cell complexes. It utilizes the algebraic topology of non-dyadic and trans-hierarchical interactions to significantly enhance the model's learning capabilities in geometrically rich environments.
 
 <!--
 ### Highlights
@@ -31,11 +31,11 @@ One of the key features of GCNN is its equivariat architecture. The model captur
 
 ### Directable Features
 
-GCNN is designed to accept scalar, vector, and tensor fields over $\mathbb{R}^3$ as input and output. This ensures that the model can learn and represent geometric quantities on cell complexes effectively.
+GCXNN is designed to accept scalar, vector, and tensor fields over $\mathbb{R}^3$ as input and output. This ensures that the model can learn and represent geometric quantities on cell complexes effectively.
 
 ### Rich Topological and Geometric Structures
 
-Unlike traditional graph neural networks, GCNN exploits the rich topological and geometric structure of the cell complex for more expressive representation learning. This offers a more robust framework compared to traditional graph-based approaches.
+Unlike traditional graph neural networks, GCXNN exploits the rich topological and geometric structure of the cell complex for more expressive representation learning. This offers a more robust framework compared to traditional graph-based approaches.
 
 ## Applications
 
@@ -53,13 +53,7 @@ Unlike traditional graph neural networks, GCNN exploits the rich topological and
 - PyTorch 1.7+
 - CUDA 11.0+
 
-### Installation
 
-```bash
-git clone https://github.com/yourusername/GCNN.git
-cd GCNN
-pip install -r requirements.txt
-```
 
 ### Usage
 
