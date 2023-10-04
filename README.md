@@ -21,8 +21,6 @@ One of the defining aspects of GCXNN is its **Geometric Complex Message Passing 
 
 Representation of geometric quantities in neural networks presents a unique computational challenge due to their sensitivity to spatial symmetries. The GCNN model, rooted in group theory, representation theory, and algebraic topology, aims to tackle this challenge by adapting to the unique symmetries of progressively complex group spaces.
 
-![Model Architecture](./gcnn-architecture.png)
-
 ## Features
 
 ### Equivariance
@@ -77,7 +75,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-Feel free to contribute and raise issues. For questions, contact [your-email@example.com](mailto:your-email@example.com).
+Feel free to contribute and raise issues. For questions, contact [admirselimovic@gmail.com](mailto:admirselimovic@gmail.com).
 
 ---
 
